@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Flow (@nekocats)
+- 👋 Hi, I’m Flow! (@nekocats)
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on cats
+- 💞️ I’m looking to collaborate with cats
 - 📫 How to reach me, uh discord most likely. Flow#3333
 
 <!---
