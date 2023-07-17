@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Flow! (@nekocats)
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate with cats
-- 📫 How to reach me, uh discord most likely. Flow#3333
+- 👀 I’m silly
+- i sometimes do some silly web development (quality of it is debatable) 💀
+- 📫 You can reach me on discord. Flow#3333
 
 <!---
 nekocats/nekocats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
