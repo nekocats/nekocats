@@ -1,4 +1,4 @@
-- 😊 Hi, I’m Flow! (@nekocats)
+- 😊 Hai! Me be Flow! (@nekocats) <- dis my username :3
 - 💜 I’m silly and whimsy!
 - 💀 Sometimes I like to do some silly web development (quality of it is very debatable) 
 - 🩷 You can reach me through Discord! Flowchan (please don't be a bot..)
