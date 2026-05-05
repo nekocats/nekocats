@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Flow! (@nekocats)
-- 👀 I’m silly
-- i sometimes do some silly web development (quality of it is debatable) 💀
-- 📫 You can reach me on discord. Flowchan
+- 😊 Hi, I’m Flow! (@nekocats)
+- 💜 I’m silly and whimsy!
+- 💀 Sometimes I like to do some silly web development (quality of it is very debatable) 
+- 🩷 You can reach me through Discord! Flowchan (please don't be a bot..)
 
 <!---
 nekocats/nekocats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
